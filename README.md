@@ -7,10 +7,10 @@
 ****
 ## Usage 
 [First of all, you have to download the ZIP-file and extract this file. Or you clone this file or do it as you want , that's up to you. ] 
-#### Then you can use this code for example for you website and even for your app and for many other things. Furthermore, you can also redesign and edit the buttons according to your preferences and plans. For example: change color, change speed etc.
+#### Then you can use this code for example for you website or even for your app and for many other things. Furthermore, you can also redesign and edit the buttons according to your preferences and plans. For example: change color, change speed etc.
 ****
 ## FOLLOW ME!
-### [FOLLOW ME ON GITHUB](https://github.com/JakeGame3 "Follow")
+### [FOLLOW ME ON GITHUB TO STAY TUNED](https://github.com/JakeGame3 "Follow")
 ****
 ## DONATE!
 
